@@ -16,5 +16,5 @@ spring:
       client:
 
 jwt:
-  issuer: ajufresh@gmail.com
-  secret_key: study-springboot
+  issuer: 
+  secret_key: 
